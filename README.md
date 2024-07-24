@@ -60,7 +60,7 @@ Once the ticket is assigned to the relevant department and personnel, the IT tea
 
 <h3>(4) Resolution</h3>  
 
-Once the ticket is resolved, it can be closed.  In the osTicket system, the ticket will go from th "Open" section to the "Closed" section.  It's also important for IT Professionals to know where to find closed tickets, because closed tickets can offer valuable info for resolving similar issues.   
+Once the ticket is resolved, it can be closed.  In the osTicket system, the ticket will go from the "Open" section to the "Closed" section.  It's also important for IT Professionals to know where to find closed tickets, because closed tickets can offer valuable info for resolving similar issues.   
 
 ![image](https://github.com/user-attachments/assets/c8149e60-d600-469d-9d8b-e55662f74ee4)   
 
@@ -69,7 +69,7 @@ Once the ticket is resolved, it can be closed.  In the osTicket system, the tick
 
 <h2>Congratulations!</h2>   
 
-You've successfully gone through tho osTicket lifecycle from intake to resolution.  By following these steps, you ensure that user issues are logged, assigned, worked on, and resolved efficiently.  This not only improves the user experience but also enhances the overall productivity and effectivenessof the IT support team.   
+You've successfully gone through the osTicket lifecycle from intake to resolution.  By following these steps, you ensure that user issues are logged, assigned, worked on, and resolved efficiently.  This not only improves the user experience but also enhances the overall productivity and effectiveness of the IT support team.   
 
 <br> 
 
