@@ -30,33 +30,36 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 This is when a new ticket is created.  You can create a ticket by filling out a form (like the one in this example) or emailing a dedicated ticketing address.  When creating a ticket the user/customer fills in their contact info, the issue/topic, and details about it.   
 
-We're creating tickets as users Lewis and Kate    
-
-ticket 1   
+We're creating a ticket as Lewis (user).     
+   
 ![image](https://github.com/user-attachments/assets/33fb9996-d90a-4366-b493-4dcfb8956056)   
-
-ticket 2   
-![image](https://github.com/user-attachments/assets/9a90521a-864c-443b-8516-abab4c52887b)   
-
-ticket 3   
-![image](https://github.com/user-attachments/assets/32333438-c093-4fbc-ae87-4ae095030b2b)
+   
 
 <br>
 <br>
 
 <h3>(2) Assignment</h3>   
 
-Once the ticket has been submitted, it can be assigned to an IT professional. for the ticket to be handled correctly, info about the level of severity can be changed.  
-
-log in as an admin -> Admin panel -> Agents -> Agents -> Jane Doe -> Access -> Select Department -> Support -> Select Role -> Supreme Admin -> Save Changes    
-
-![image](https://github.com/user-attachments/assets/9dffd2a0-5c1c-48a0-b34b-8740b4cfe109)    
+Once the ticket has been submitted, it can be assigned to an IT professional. for the ticket to be handled correctly, info about the level of severity can be changed.      
 
 Log into Jane Doe (Agent) go to "Entire mobile online banking down." ticket -> change priority to Emergency -> change SLA plan to SEV-A -> Assign to Jane Doe -> change Department to System Administrators   
 
-![image](https://github.com/user-attachments/assets/6d51f0f3-188f-43d9-8987-7a56bd63cc24)
+![image](https://github.com/user-attachments/assets/6d51f0f3-188f-43d9-8987-7a56bd63cc24)   
 
+<br>
+<br>
 
+<h3>(3) Working The Issue</h3>   
 
+Once the ticket is assigned to the relevant department and personnel, the IT team can begin resolving the issue.  with every change or update to the situation, comments can be added to the ticket thread.  This ensures that everyone involved is informed about the progress and promotes effective communication.    
 
+![image](https://github.com/user-attachments/assets/dc7a33f5-e471-45a6-baa7-428386894df8)   
+
+<h3>(4) Resolution</h3>  
+
+Once the ticket is resolved, it can be closed.  In th osTicket system, the ticket will go from th "Open" section to the "Closed" section.  It's also important for IT Professionals to know where to find closed tickets, because closed tickets can offer solutions for open tickets.   
+
+![image](https://github.com/user-attachments/assets/c8149e60-d600-469d-9d8b-e55662f74ee4)   
+
+<h1>Congratulations! You've gone through the osTicket Lifecycle</h1>  
 
