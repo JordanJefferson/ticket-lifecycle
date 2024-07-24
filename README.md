@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.  Understanding this lifecycle helps streamline the process of managing and resolving user issues efficiently.<br />
 
 
 
@@ -40,7 +40,7 @@ We're creating a ticket as Lewis (user).
 
 <h3>(2) Assignment</h3>   
 
-Once the ticket has been submitted, it can be assigned to an IT professional. for the ticket to be handled correctly, info about the level of severity can be changed.      
+Once the ticket has been submitted, it can be assigned to an IT professional. For the ticket to be handled correctly, the info about the level of severity can be changed.      
 
 Log into Jane Doe (Agent) go to "Entire mobile online banking down." ticket -> change priority to Emergency -> change SLA plan to SEV-A -> Assign to Jane Doe -> change Department to System Administrators   
 
@@ -51,15 +51,28 @@ Log into Jane Doe (Agent) go to "Entire mobile online banking down." ticket -> c
 
 <h3>(3) Working The Issue</h3>   
 
-Once the ticket is assigned to the relevant department and personnel, the IT team can begin resolving the issue.  with every change or update to the situation, comments can be added to the ticket thread.  This ensures that everyone involved is informed about the progress and promotes effective communication.    
+Once the ticket is assigned to the relevant department and personnel, the IT team can begin resolving the issue.  With every change or update to the situation, comments can be added to the ticket thread.  This ensures that everyone involved is informed about the progress and promotes effective communication.    
 
 ![image](https://github.com/user-attachments/assets/dc7a33f5-e471-45a6-baa7-428386894df8)   
 
+<br>
+<br>
+
 <h3>(4) Resolution</h3>  
 
-Once the ticket is resolved, it can be closed.  In th osTicket system, the ticket will go from th "Open" section to the "Closed" section.  It's also important for IT Professionals to know where to find closed tickets, because closed tickets can offer solutions for open tickets.   
+Once the ticket is resolved, it can be closed.  In the osTicket system, the ticket will go from th "Open" section to the "Closed" section.  It's also important for IT Professionals to know where to find closed tickets, because closed tickets can offer valuable info for resolving similar issues.   
 
 ![image](https://github.com/user-attachments/assets/c8149e60-d600-469d-9d8b-e55662f74ee4)   
 
-<h1>Congratulations! You've gone through the osTicket Lifecycle</h1>  
+<br>
+<br>
 
+<h2>Congratulations!</h2>   
+
+You've successfully gone through tho osTicket lifecycle from intake to resolution.  By following these steps, you ensure that user issues are logged, assigned, worked on, and resolved efficiently.  This not only improves the user experience but also enhances the overall productivity and effectivenessof the IT support team.   
+
+<br> 
+
+<h4>Note</h4> 
+Feel free to create as many scenarios as you'd like to become more comfortable with osTicket.
+ 
